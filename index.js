@@ -172,7 +172,7 @@ async function get_questions(marks_req, diffi) {
             for (let i = 4; i >= 0; i--) {
                 const cnt = Math.min(marks_freq[i], parseInt(marks_req / (i + 1)));
 
-                console.log(`cnt: ${cnt} ${marks_req}`);
+                // console.log(`cnt: ${cnt} ${marks_req}`);
 
                 if (cnt == 0)
                     continue;
