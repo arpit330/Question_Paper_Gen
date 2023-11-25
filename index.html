@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/public/styles.css">
+
+    <script src="/public/form.js"></script>
+
+    <title>Question Paper Generator</title>
+</head>
+
+<body>
+
+    <!-- Container for the registration form -->
+    <div class="container">
+        <!-- Title of the form -->
+        <div class="title">Enter Paper Difficulty</div>
+        <hr>
+        <div class="content">
+            <!-- Registration form -->
+            <form id="data_form">
+                <div class="user-details">
+
+                    <div class="input-box">
+                        <span class="details">Total Marks</span>
+                        <input id="totalMarks" name="totalMarks" type="number" placeholder="Total Marks" required>
+                    </div>
+
+                    <div class="input-box">
+                        <span class="details">Difficulty Percentage (HARD)</span>
+                        <input id="hardP" name="hardP" type="number" placeholder="" required>
+                    </div>
+                    
+                    <div class="input-box">
+                        <span class="details">Difficulty Percentage (MEDIUM)</span>
+                        <input id="mediumP" name="mediumP" type="number" placeholder="" required>
+                    </div>
+
+                    <div class="input-box">
+                        <span class="details">Difficulty Percentage (EASY)</span>
+                        <input id="easyP" name="easyP" type="number" placeholder="" required>
+                    </div>
+                    <!-- Input box for password -->
+
+                </div>
+                <!-- Button container -->
+                <div class="button-container">
+                    <div class="button">
+                        <!-- Submit button -->
+                        <input type="submit" value="Submit">
+                        <!-- <button type="submit" >Submit</button> -->
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div id="result">
+
+        </div>
+        <br>
+    </div>
+</body>
+
+</html>

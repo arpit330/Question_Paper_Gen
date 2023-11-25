@@ -1,0 +1,1743 @@
+{
+    "question": "What is the SI unit of electric current?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Define Newton's second law of motion.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "Explain the concept of wave-particle duality in quantum mechanics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "What is the conservation of energy principle? Provide an example.",
+    "subject": "Physics",
+    "topic": "Energy Conservation",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Describe the concept of magnetic flux.",
+    "subject": "Physics",
+    "topic": "Magnetism",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Name three types of chemical bonds and provide an example for each.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "What is the difference between an acid and a base?",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of electronegativity in the context of chemical reactions.",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "Define isomerism and provide an example.",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "What is Avogadro's number, and how is it related to the mole concept?",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "State the first law of thermodynamics and give an example.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "What is the photoelectric effect, and how does it support the particle nature of light?",
+    "subject": "Physics",
+    "topic": "Modern Physics",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "Explain the concept of simple harmonic motion.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Define the Doppler effect and its application in astronomy.",
+    "subject": "Physics",
+    "topic": "Sound and Waves",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "Describe the process of radioactive decay and its significance.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "What is the difference between exothermic and endothermic reactions?",
+    "subject": "Chemistry",
+    "topic": "Thermochemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of hybridization in the formation of covalent bonds.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "Define the term 'equilibrium' in the context of chemical reactions.",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "Discuss the role of catalysts in chemical reactions.",
+    "subject": "Chemistry",
+    "topic": "Catalysis",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "What is the structure of an atom? Explain the distribution of electrons.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Solve the following trigonometric equation: sin(x) + cos(x) = 1.",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "Find the derivative of the function f(x) = 3x^2 - 2x + 1.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "Simplify the expression: (2x + 5)(3x - 1).",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "What is the probability of rolling an even number on a six-sided die?",
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Solve the system of equations: 2x - y = 3, 4x + 2y = 10.",
+    "subject": "Mathematics",
+    "topic": "Systems of Equations",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "Find the area of a triangle with sides of length 5, 12, and 13.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "Explain the concept of nuclear fusion and its potential applications.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "Define the term 'refraction' and provide an example from everyday life.",
+    "subject": "Physics",
+    "topic": "Optics",
+    "difficulty": "Medium",
+    "marks": 1
+},
+{
+    "question": "What is the Heisenberg Uncertainty Principle, and how does it relate to quantum mechanics?",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "Discuss the principles of fluid dynamics and their applications in engineering.",
+    "subject": "Physics",
+    "topic": "Fluid Dynamics",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "Name and explain the three laws of thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Describe the process of polymerization in organic chemistry.",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "Explain the concept of redox reactions and provide an example.",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Discuss the properties and uses of noble gases.",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "What is the difference between an exergonic and endergonic reaction?",
+    "subject": "Chemistry",
+    "topic": "Chemical Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "Explain the concept of half-life in radioactive decay.",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "Solve the following trigonometric equation: cos(2x) = sin(x).",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Hard",
+    "marks": 5
+},
+{
+    "question": "Find the integral of the function f(x) = e^x + 2x.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "Simplify the expression: (sin^2(x) + cos^2(x))^2.",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Calculate the determinant of the 3x3 matrix: [[2, -1, 3], [0, 4, -2], [-1, 2, 1]].",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra",
+    "difficulty": "Medium",
+    "marks": 4
+},
+{
+    "question": "If a coin is flipped three times, what is the probability of getting at least one head?",
+    "subject": "Mathematics",
+    "topic": "Probability",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "What is the SI unit of temperature?",
+    "subject": "Physics",
+    "topic": "Units and Measurements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'element' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Solve the equation 3x + 5 = 14 for x.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical symbol for oxygen?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State Newton's first law of motion.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the sum of angles in a triangle?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'velocity' in physics.",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Name the first ten elements of the periodic table.",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the square root of 25?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'molecule' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Explain the difference between speed and velocity.",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "What is the chemical formula for water?",
+    "subject": "Chemistry",
+    "topic": "Chemical Formulas",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Simplify the expression: 3(x + 2) - 2x.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'isotope' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "State Archimedes' principle and its application in fluid mechanics.",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Calculate the area of a rectangle with length 6 units and width 4 units.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Name three common gases found in the Earth's atmosphere.",
+    "subject": "Chemistry",
+    "topic": "Atmospheric Chemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "What is the square of the number 8?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of work in physics.",
+    "subject": "Physics",
+    "topic": "Work and Energy",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "List the first five prime numbers.",
+    "subject": "Mathematics",
+    "topic": "Number Theory",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the difference between speed and velocity.",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "What is the chemical formula for water?",
+    "subject": "Chemistry",
+    "topic": "Chemical Formulas",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Simplify the expression: 3(x + 2) - 2x.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'isotope' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "State Archimedes' principle and its application in fluid mechanics.",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Calculate the area of a rectangle with length 6 units and width 4 units.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Name three common gases found in the Earth's atmosphere.",
+    "subject": "Chemistry",
+    "topic": "Atmospheric Chemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "What is the square of the number 8?",
+    "subject": "Mathematics",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of work in physics.",
+    "subject": "Physics",
+    "topic": "Work and Energy",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "List the first five prime numbers.",
+    "subject": "Mathematics",
+    "topic": "Number Theory",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Derive the formula for the area of a circle and explain each term.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of momentum in physics and its conservation.",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties of alkali metals in the periodic table.",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Solve the system of equations: 2x + y = 5, x - y = 1.",
+    "subject": "Mathematics",
+    "topic": "Systems of Equations",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Explain the process of cellular respiration and its significance.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Discuss the principles of wave-particle duality in quantum mechanics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Describe the structure of an atom and the arrangement of subatomic particles.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Find the derivative of the function f(x) = 2x^3 - 5x^2 + 4x - 1.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of entropy in thermodynamics and its relation to disorder.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Define the term 'ionic bond' and provide an example.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Medium",
+    "marks": 3
+},
+{
+    "question": "Solve the equation 2x + 3 = 7 for x.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "What is the chemical symbol for sodium?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "State the three laws of motion proposed by Sir Isaac Newton.",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Calculate the perimeter of a rectangle with length 8 units and width 5 units.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the difference between an acid and a base.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Solve the following trigonometric equation: sin(x) = 0.5.",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Define the term 'kinetic energy' and provide a formula for it.",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "List the first five elements of the periodic table.",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Calculate the volume of a cube with a side length of 3 units.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of potential energy in physics.",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Prove the Pythagorean theorem for a right-angled triangle.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 3
+},
+{
+    "question": "Discuss the principles of quantum entanglement in quantum mechanics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 3
+},
+{
+    "question": "Explain the process of photosynthesis and its role in the carbon cycle.",
+    "subject": "Biology",
+    "topic": "Plant Biology",
+    "difficulty": "Hard",
+    "marks": 3
+},
+{
+    "question": "Define the term 'electrolysis' in chemistry and provide an example.",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Hard",
+    "marks": 3
+},
+{
+    "question": "Discuss the concept of black holes in astrophysics.",
+    "subject": "Physics",
+    "topic": "Astrophysics",
+    "difficulty": "Hard",
+    "marks": 3
+},
+{
+    "question": "Explain the principles of orbital hybridization in organic chemistry.",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "difficulty": "Hard",
+    "marks": 3
+},
+{
+    "question": "Solve the definite integral: ∫(2x^2 + 3x + 1) dx from 0 to 1.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 3
+},
+{
+    "question": "Describe the process of nuclear fission and its applications.",
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "difficulty": "Hard",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of transition metals in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Hard",
+    "marks": 3
+},
+{
+    "question": "Prove the fundamental theorem of calculus.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 3
+},
+{
+    "question": "Calculate the pH of a solution with a hydrogen ion concentration of 1 x 10^-8 M.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Medium",
+    "marks": 1
+},
+{
+    "question": "What is the unit of electric charge in the International System of Units (SI)?",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 1
+},
+{
+    "question": "Solve the equation: 2x - 5 = 7 for x.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 1
+},
+{
+    "question": "Discuss the principles of chromatography in analytical chemistry.",
+    "subject": "Chemistry",
+    "topic": "Analytical Chemistry",
+    "difficulty": "Medium",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of wave-particle duality in quantum mechanics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Medium",
+    "marks": 2
+},
+{
+    "question": "Calculate the volume of a cylinder with a radius of 5 units and height of 8 units.",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "marks": 2
+},
+{
+    "question": "Prove the divergence theorem in vector calculus.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 1
+},
+{
+    "question": "Discuss the principles of quantum tunneling in particle physics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 1
+},
+{
+    "question": "Explain the concept of stereoisomerism in organic chemistry.",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "difficulty": "Hard",
+    "marks": 1
+},
+{
+    "question": "Define the term 'Gibbs free energy' and its role in chemical thermodynamics.",
+    "subject": "Chemistry",
+    "topic": "Chemical Thermodynamics",
+    "difficulty": "Hard",
+    "marks": 1
+},
+{
+    "question": "Discuss the principles of wave-particle duality in quantum mechanics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 2
+},
+{
+    "question": "Explain the process of oxidative phosphorylation in cellular respiration.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 2
+},
+{
+    "question": "Prove the divergence of the magnetic field is zero in electromagnetism.",
+    "subject": "Physics",
+    "topic": "Electromagnetism",
+    "difficulty": "Hard",
+    "marks": 2
+},
+{
+    "question": "Discuss the principles of quantum entanglement in quantum mechanics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 2
+},
+{
+    "question": "Define the term 'photochemical smog' and its formation.",
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "difficulty": "Hard",
+    "marks": 2
+},
+{
+    "question": "Explain the principles of genetic engineering in biotechnology.",
+    "subject": "Biology",
+    "topic": "Biotechnology",
+    "difficulty": "Hard",
+    "marks": 2
+},
+{
+    "question": "Prove the Pythagorean identity in trigonometry.",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Hard",
+    "marks": 2
+},
+{
+    "question": "Define the term 'atom' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical symbol for carbon?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'chemical reaction' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State the law of conservation of mass.",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical formula for water?",
+    "subject": "Chemistry",
+    "topic": "Chemical Formulas",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'acid' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State the periodic law.",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical symbol for gold?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'molecule' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State the first law of thermodynamics.",
+    "subject": "Chemistry",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical symbol for sodium?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'mole' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State Avogadro's law.",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical formula for methane?",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'solution' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Solutions",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical formula for carbon dioxide?",
+    "subject": "Chemistry",
+    "topic": "Chemical Formulas",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'valence electrons' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State the law of multiple proportions.",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical symbol for oxygen?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'isotope' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State Charles's law.",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical formula for sulfuric acid?",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'ion' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State the law of definite proportions.",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical symbol for helium?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'neutralization' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State Gay-Lussac's law.",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical formula for ammonia?",
+    "subject": "Chemistry",
+    "topic": "Chemical Formulas",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'electronegativity' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State the law of conservation of energy.",
+    "subject": "Chemistry",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical symbol for iron?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'stoichiometry' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State Dalton's atomic theory.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical formula for table salt?",
+    "subject": "Chemistry",
+    "topic": "Chemical Formulas",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'enzyme' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Biochemistry",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State the law of partial pressures.",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical symbol for potassium?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'sublimation' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Phase Transitions",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State Le Chatelier's principle.",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical formula for hydrogen peroxide?",
+    "subject": "Chemistry",
+    "topic": "Chemical Formulas",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'solution' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Solutions",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "State the law of mass action.",
+    "subject": "Chemistry",
+    "topic": "Chemical Kinetics",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "What is the chemical symbol for neon?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Define the term 'catalyst' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Kinetics",
+    "difficulty": "Easy",
+    "marks": 1
+},
+{
+    "question": "Explain the difference between an element and a compound.",
+    "subject": "Chemistry",
+    "topic": "Elements and Compounds",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the process of balancing a chemical equation.",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Compare and contrast acids and bases.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of isotopes with an example.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'ionic bond' in chemical bonding.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the properties of gases according to the kinetic molecular theory.",
+    "subject": "Chemistry",
+    "topic": "Gases",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the difference between exothermic and endothermic reactions.",
+    "subject": "Chemistry",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'molar mass' and its unit.",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the process of sublimation in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Phase Transitions",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of chemical equilibrium.",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'oxidation state' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the structure of an atom according to the Bohr model.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of solubility in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Solutions",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'polyatomic ion' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the role of enzymes in biological systems.",
+    "subject": "Chemistry",
+    "topic": "Biochemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of half-life in radioactivity.",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'concentration' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Solutions",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the structure of a covalent bond.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of electronegativity and its periodic trend.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'neutralization reaction' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the process of distillation in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of valence electrons in chemical bonding.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'nuclear fission' in nuclear chemistry.",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the process of ionization energy and its periodic trend.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of limiting reactant in stoichiometry.",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'activation energy' in chemical kinetics.",
+    "subject": "Chemistry",
+    "topic": "Chemical Kinetics",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the process of titration in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Analytical Chemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of enthalpy and its significance in chemical reactions.",
+    "subject": "Chemistry",
+    "topic": "Thermodynamics",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'orbital' in atomic structure.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the properties of nonmetals on the periodic table.",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of redox reactions.",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'hydration' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Solutions",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the process of radioactive decay.",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of polar and nonpolar molecules.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'isomer' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the properties of metals on the periodic table.",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of significant figures in measurements.",
+    "subject": "Chemistry",
+    "topic": "Measurements",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'electrolysis' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the process of chromatography in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of covalent bonding.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Define the term 'stoichiometric coefficient' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Describe the process of nuclear fusion.",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of the Aufbau principle in atomic structure.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 2
+},
+{
+    "question": "Explain the concept of stoichiometry and how it is applied in chemical reactions.",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Define the terms 'acid rain' and its environmental impact.",
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of alkali metals.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the process of ionization energy and its trends across the periodic table.",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Describe the structure and function of a chemical bond.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the principles of the gas laws, focusing on Boyle's law and Charles's law.",
+    "subject": "Chemistry",
+    "topic": "Gas Laws",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the role of catalysts in chemical reactions.",
+    "subject": "Chemistry",
+    "topic": "Chemical Kinetics",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Describe the process of nuclear fission and its applications.",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of hybridization in molecular geometry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of halogens.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Define the term 'activation energy' in a chemical reaction.",
+    "subject": "Chemistry",
+    "topic": "Chemical Kinetics",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of pH in relation to acids and bases.",
+    "subject": "Chemistry",
+    "topic": "Acids and Bases",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of transition metals.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the process of sublimation in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Phase Transitions",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Describe the structure and function of carbohydrates.",
+    "subject": "Chemistry",
+    "topic": "Biochemistry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of resonance in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of noble gases.",
+    "subject": "Chemistry",
+    "topic": "Gases",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Define the term 'dipole moment' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of isotonic solutions.",
+    "subject": "Chemistry",
+    "topic": "Solutions",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Describe the process of distillation and its applications.",
+    "subject": "Chemistry",
+    "topic": "Separation Techniques",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of alkaline earth metals.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of titration and its applications in analytical chemistry.",
+    "subject": "Chemistry",
+    "topic": "Analytical Chemistry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Define the term 'ionization potential' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of nonmetals.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the process of precipitation in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Describe the structure and function of lipids.",
+    "subject": "Chemistry",
+    "topic": "Biochemistry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of isomerism in organic chemistry.",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of actinides.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Define the term 'half-life' in nuclear chemistry.",
+    "subject": "Chemistry",
+    "topic": "Nuclear Chemistry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of oxidation number in redox reactions.",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Describe the process of condensation in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Phase Transitions",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of semimetals.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of coordination number in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Define the term 'colligative properties' in solutions.",
+    "subject": "Chemistry",
+    "topic": "Solutions",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of lanthanides.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of valence shell in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Describe the process of saponification in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of transition metal compounds.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of covalent bonding in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Define the term 'equilibrium constant' in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of metalloids.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Explain the concept of Avogadro's hypothesis and its applications.",
+    "subject": "Chemistry",
+    "topic": "Stoichiometry",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Describe the process of reduction in chemistry.",
+    "subject": "Chemistry",
+    "topic": "Redox Reactions",
+    "difficulty": "Easy",
+    "marks": 3
+},
+{
+    "question": "Discuss the properties and uses of semiconductors.",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 3
+}
