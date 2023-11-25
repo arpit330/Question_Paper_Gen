@@ -22,7 +22,7 @@ body {
     background-color: white;
     border-radius: 3px;
     box-shadow: #9b59b6;
-    
+    overflow: auto; 
 }
 
 
@@ -116,7 +116,7 @@ form .button input:hover {
     }
 
     .content form .user-details {
-        max-height: 300px;
+        /* max-height: 300px; */
         overflow-y: scroll;
     }
 

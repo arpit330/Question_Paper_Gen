@@ -141,7 +141,7 @@ async function get_questions(marks_req, diffi) {
 
         if (category_marks <= marks_req) {
 
-            const result = await collection.find({ difficulty: diffi });
+            const result = await collection.find({ difficulty: diffi }).toArray();
             return result;
 
         }

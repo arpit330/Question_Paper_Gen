@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 const result_ele = document.getElementById('result');
                 result_ele.removeChild(result_ele.firstChild);
 
-                if (data.message[0] === 'i') {
+                if (data.message[0] === 'I') {
                     const err_message = document.createElement('div');
                     err_message.textContent = data.message;
                     result_ele.append(err_message);
