@@ -18,13 +18,13 @@ const questions = []
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html');
 });
-
+const API_KEY = "mongodb+srv://arpitsahu645:arpitsahu@cluster0.vmi1ajq.mongodb.net/?retryWrites=true&w=majority";
 async function insertData() {
 
 
     console.log("sdfs");
 
-    const uri = process.env.API_KEY;
+    const uri = API_KEY;
 
 
 
@@ -65,7 +65,7 @@ const m_array = new Array(5).fill(0);
 const d_array = new Array(3).fill(0);
 
 async function get_data() {
-    const uri = process.env.API_KEY;
+    const uri = API_KEY;
     const client = new MongoClient(uri);
 
     try {
@@ -122,7 +122,7 @@ async function get_questions(marks_req, diffi) {
     // console.log(d_array);
     // console.log(m_array);
 
-    const uri = process.env.API_KEY;
+    const uri = API_KEY;
 
     let category_marks = d_array[0];
     if (diffi === 'Medium')
