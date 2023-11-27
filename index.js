@@ -2,11 +2,15 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const fs = require('fs');
 const { MongoClient } = require("mongodb");
+const cors = require('cors');
+
+
 require('dotenv').config();
 
 
 const app = express();
 const port = 3000;
+app.use(cors());
 
 app.use('/public', express.static('public'));
 app.use(express.json());
